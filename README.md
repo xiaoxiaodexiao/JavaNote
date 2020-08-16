@@ -14,3 +14,5 @@ Commit gitignore文件，将.idea从源代码仓库中删除：
 
 Push到服务器：
   $ git push
+  
+ 插件下载 .ignore
